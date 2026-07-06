@@ -1,0 +1,29 @@
+.claude/
+tiku/static/
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+desktop/venv/
+desktop/xue_xi_tong/
+
+# 构建产物
+desktop/dist/
+desktop/build/
+*.spec
+
+# 用户数据（不提交）
+desktop/data/
+desktop/.env
+desktop/chaoxing_debug.log
+
+# IDE
+.vscode/
+.idea/
+
+# 日志
+chaoxing_debug.log

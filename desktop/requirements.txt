@@ -1,0 +1,11 @@
+# 超星学习通桌面助手 - 依赖清单
+# 使用清华镜像安装: pip install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple
+
+PyQt5>=5.15.0
+qasync>=0.27.0
+zendriver>=0.15.0
+httpx>=0.25.0
+python-dotenv>=1.0.0
+fonttools>=4.40.0
+aiofiles>=23.0.0
+ddddocr>=1.4.0

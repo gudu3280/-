@@ -1,0 +1,15 @@
+# 构建产物
+dist/
+build/
+*.spec
+
+# Python缓存
+__pycache__/
+*.pyc
+*.pyo
+
+# 数据目录(浏览器session等)
+data/
+
+# 虚拟环境
+venv/
